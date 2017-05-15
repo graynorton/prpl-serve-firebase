@@ -1,0 +1,15 @@
+{
+  "name": "prpl-serve-firebase",
+  "version": "0.1.0",
+  "description": "Serve a multi-build PRPL app from Firebase",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Polymer Project Authors",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "prpl-server": "^0.1.3",
+    "useragent": "^2.1.13"
+  }
+}
