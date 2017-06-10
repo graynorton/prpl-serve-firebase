@@ -9,8 +9,8 @@
   "author": "The Polymer Project Authors",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "minimatch": "^3.0.4",
-    "prpl-server": "github:graynorton/prpl-server-node"
+    "@graynorton/prpl-server": "^0.7.0",
+    "minimatch": "^3.0.4"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
